@@ -1,0 +1,4 @@
+[2023-10-24 15:30:00] [ WARN ] [App:14] Creacion de la instancia de la lista
+[2023-10-24 15:30:00] [ INFO ] [App:21] La lista contiene mas de 5 elementos: 6
+[2023-10-24 15:30:36] [ WARN ] [App:14] Creacion de la instancia de la lista
+[2023-10-24 15:30:36] [ INFO ] [App:21] La lista contiene mas de 5 elementos. Elementos totales: 6
