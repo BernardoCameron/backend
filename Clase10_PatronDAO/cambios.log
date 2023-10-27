@@ -1,0 +1,13 @@
+[2023-10-27 18:04:48] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
+[2023-10-27 18:06:01] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
+[2023-10-27 18:09:31] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
+[2023-10-27 18:10:45] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
+[2023-10-27 18:11:39] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
+[2023-10-27 18:11:39] [ ERROR] [MedicamentoDAOH2:40] Table "MEDICAMENTOS" not found (this database is empty); SQL statement:
+INSERT INTO MEDICAMENTOS VALUES (?,?,?,?,?,?) [42104-214]
+[2023-10-27 18:11:53] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
+[2023-10-27 18:11:53] [ ERROR] [MedicamentoDAOH2:40] Table "MEDICAMENTOS" not found (this database is empty); SQL statement:
+INSERT INTO MEDICAMENTOS VALUES (?,?,?,?,?,?) [42104-214]
+[2023-10-27 18:12:35] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
+[2023-10-27 18:12:54] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
+[2023-10-27 18:19:33] [ INFO ] [MedicamentoDAOH2:16] Iniciando las operaciones de guardado
